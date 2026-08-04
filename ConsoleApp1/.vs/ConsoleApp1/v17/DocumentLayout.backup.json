@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\",
+  "WorkspaceRootPath": "E:\\VSproject\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB62C7DF-7F67-4662-99B9-D72B163D9BB8}|ConsoleApp1\\ConsoleApp1.csproj|e:\\visualstudiosetup\\packbag\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB62C7DF-7F67-4662-99B9-D72B163D9BB8}|ConsoleApp1\\ConsoleApp1.csproj|e:\\vsproject\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB62C7DF-7F67-4662-99B9-D72B163D9BB8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDkAAAAjAAAAAAAAAA==",
+              "ToolTip": "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwC8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T02:48:08.128Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

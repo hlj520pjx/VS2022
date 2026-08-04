@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VisualStudioSetup\\packbag\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\VSproject\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

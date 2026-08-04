@@ -35,27 +35,31 @@ namespace ConsoleApp1
              int hour = m % 24;
              Console.WriteLine($"连续作战{day}天 {hour}小时");*/
 
-            Console.Write("hello");
-            Console.Write("world");
-            Console.WriteLine("今天是第{0}天学习{1}", "1", "C#");
+         List<string> name = new List<string>()
+         {
+             "黄陆基",
+             "海少",
+             "京爷",
+             "沪爷",
+             "烧杯",
+             "肘击龙",
+             "咕咕嘎嘎"
+         };
+        Random r = new Random();
+         Console.WriteLine(name[r.Next(name.Count)]);
+           
 
-            Console.WriteLine(123);
-            Console.WriteLine(1.23);
-            Console.WriteLine("123");
-            Console.WriteLine("leon");
-            Console.WriteLine(true); // True
-            Console.WriteLine(false); // False
 
 
-            string m1 = "666";
-            string m2 = m1+22;
-            Console.WriteLine(m2);
 
-            int n1=int.Parse(m1);
-            Console.WriteLine(n1+111);
 
-            double d =double.Parse("123.4");
-            Console.WriteLine(d+100);
+
+
+
+
+
+
+
         }
     }
 }
