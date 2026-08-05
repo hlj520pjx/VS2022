@@ -1,0 +1,15 @@
+E:\VSproject\if else switch_complete\if else switch_complete\bin\Debug\net8.0\if else switch_complete.exe
+E:\VSproject\if else switch_complete\if else switch_complete\bin\Debug\net8.0\if else switch_complete.deps.json
+E:\VSproject\if else switch_complete\if else switch_complete\bin\Debug\net8.0\if else switch_complete.runtimeconfig.json
+E:\VSproject\if else switch_complete\if else switch_complete\bin\Debug\net8.0\if else switch_complete.dll
+E:\VSproject\if else switch_complete\if else switch_complete\bin\Debug\net8.0\if else switch_complete.pdb
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.AssemblyInfoInputs.cache
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.AssemblyInfo.cs
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.csproj.CoreCompileInputs.cache
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.sourcelink.json
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.dll
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\refint\if else switch_complete.dll
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.pdb
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\if else switch_complete.genruntimeconfig.cache
+E:\VSproject\if else switch_complete\if else switch_complete\obj\Debug\net8.0\ref\if else switch_complete.dll
