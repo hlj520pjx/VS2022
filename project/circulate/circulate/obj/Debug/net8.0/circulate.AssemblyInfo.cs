@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("if else switch_complete")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("circulate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f66ac2905941e94ffece836e412d3dfa860061a")]
-[assembly: System.Reflection.AssemblyProductAttribute("if else switch_complete")]
-[assembly: System.Reflection.AssemblyTitleAttribute("if else switch_complete")]
+[assembly: System.Reflection.AssemblyProductAttribute("circulate")]
+[assembly: System.Reflection.AssemblyTitleAttribute("circulate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

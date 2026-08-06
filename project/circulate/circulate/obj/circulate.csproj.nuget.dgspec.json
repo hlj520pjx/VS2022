@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\if else switch_complete.csproj": {}
+    "E:\\VSproject\\circulate\\circulate\\circulate.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\if else switch_complete.csproj": {
+    "E:\\VSproject\\circulate\\circulate\\circulate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\if else switch_complete.csproj",
-        "projectName": "if else switch_complete",
-        "projectPath": "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\if else switch_complete.csproj",
+        "projectUniqueName": "E:\\VSproject\\circulate\\circulate\\circulate.csproj",
+        "projectName": "circulate",
+        "projectPath": "E:\\VSproject\\circulate\\circulate\\circulate.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\obj\\",
+        "outputPath": "E:\\VSproject\\circulate\\circulate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

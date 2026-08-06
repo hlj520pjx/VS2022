@@ -1,0 +1,15 @@
+E:\VSproject\circulate\circulate\bin\Debug\net8.0\circulate.exe
+E:\VSproject\circulate\circulate\bin\Debug\net8.0\circulate.deps.json
+E:\VSproject\circulate\circulate\bin\Debug\net8.0\circulate.runtimeconfig.json
+E:\VSproject\circulate\circulate\bin\Debug\net8.0\circulate.dll
+E:\VSproject\circulate\circulate\bin\Debug\net8.0\circulate.pdb
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.AssemblyInfoInputs.cache
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.AssemblyInfo.cs
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.csproj.CoreCompileInputs.cache
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.sourcelink.json
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.dll
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\refint\circulate.dll
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.pdb
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\circulate.genruntimeconfig.cache
+E:\VSproject\circulate\circulate\obj\Debug\net8.0\ref\circulate.dll

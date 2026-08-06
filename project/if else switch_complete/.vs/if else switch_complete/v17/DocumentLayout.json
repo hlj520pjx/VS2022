@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VSproject\\if else switch_complete\\",
+  "WorkspaceRootPath": "E:\\VSproject\\project\\if else switch_complete\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6128221C-964C-42D8-B700-C905A12AD1D0}|if else switch_complete\\if else switch_complete.csproj|e:\\vsproject\\if else switch_complete\\if else switch_complete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6128221C-964C-42D8-B700-C905A12AD1D0}|if else switch_complete\\if else switch_complete.csproj|e:\\vsproject\\project\\if else switch_complete\\if else switch_complete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6128221C-964C-42D8-B700-C905A12AD1D0}|if else switch_complete\\if else switch_complete.csproj|solutionrelative:if else switch_complete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VSproject\\if else switch_complete\\if else switch_complete\\Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\Program.cs",
               "RelativeDocumentMoniker": "if else switch_complete\\Program.cs",
-              "ToolTip": "E:\\VSproject\\if else switch_complete\\if else switch_complete\\Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\if else switch_complete\\if else switch_complete\\Program.cs",
               "RelativeToolTip": "if else switch_complete\\Program.cs",
-              "ViewState": "AgIAACMBAAAAAAAAAAAAABsBAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAABsBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T02:06:52.012Z",
               "EditorCaption": ""
