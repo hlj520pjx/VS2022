@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\circulate\\circulate\\circulate.csproj": {}
+    "E:\\VSproject\\project\\circulate\\circulate\\circulate.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\circulate\\circulate\\circulate.csproj": {
+    "E:\\VSproject\\project\\circulate\\circulate\\circulate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\circulate\\circulate\\circulate.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\circulate\\circulate\\circulate.csproj",
         "projectName": "circulate",
-        "projectPath": "E:\\VSproject\\circulate\\circulate\\circulate.csproj",
+        "projectPath": "E:\\VSproject\\project\\circulate\\circulate\\circulate.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\circulate\\circulate\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\circulate\\circulate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -56,29 +56,29 @@
 
 
             //作业2
-            /* int i,j,count=0;
-             for (i = 1000; i <= 2000; i++)
-             {
-                         if ((i % 4 == 0 && i % 100 != 0) || i % 400 == 0)
-                         {
-                             Console.Write($"{i}\t");
-                             count++;
-                             if (count==4)
-                             {
-                                 Console.WriteLine();
-                                 count = 0;
-                             }
+            /*int i, j, count = 0;
+            for (i = 1000; i <= 2000; i++)
+            {
+                if ((i % 4 == 0 && i % 100 != 0) || i % 400 == 0)
+                {
+                    Console.Write($"{i}\t");
+                    count++;
+                    if (count == 4)
+                    {
+                        Console.WriteLine();
+                        count = 0;
+                    }
 
-                         }
-             }*/
+                }
+            }*/
 
 
             //作业3
-            /* int i, j,n;
-             for(i=9;i>0;i--)
+            /* int i, j;
+             for (i = 9; i > 0; i--)
              {
-                 n = i;
-                 for(j=n;j>0;j--)
+
+                 for (j = i; j > 0; j--)
                  {
                      Console.Write("*");
                  }
@@ -102,18 +102,18 @@
 
 
             //作业5
-            /* int i, j;
-             long n=0;
-             for(i=1;i<=10;i++)
-             {
-                 long sum = 1;
-                 for (j=1;j<=i;j++)
-                 {
-                     sum = sum * j;
-                 }
-                 n = n + sum;
-             }
-             Console.WriteLine(n);*/
+            /*int i, j;
+            long n = 0;
+            for (i = 1; i <= 10; i++)
+            {
+                long sum = 1;
+                for (j = 1; j <= i; j++)
+                {
+                    sum = sum * j;
+                }
+                n = n + sum;
+            }
+            Console.WriteLine(n);*/
 
 
             //作业6
@@ -123,26 +123,34 @@
             {
                 h = h * 0.3;
                 i++;
-            }while (h>0.1);
+            } while (h > 0.1);
             Console.WriteLine($"第{i}次弹跳时高度为0.1");*/
 
             //作业7
-            /*double n=1;
-            double num = 0;
-            for (int i = 1; i <=64; i++)
-            {
-                num += n;
-                n = n * 2;
+            /* double n = 1;
+             double num = 0;
+             for (int i = 1; i <= 64; i++)
+             {
+                 num += n;
+                 n = n * 2;
 
+             }
+             double res = num * 0.00001;
+             Console.WriteLine(res);*/
+
+            /*double res1 = 0;
+            for (int i = 1; i <= 64; i++) 
+            {
+                res1 += Math.Pow(2,i-1);
             }
-            double res = num * 0.00001;
-            Console.WriteLine(res);*/
+            Console.WriteLine(res1*0.00001);*/
+
 
 
             //作业8
             /*double money = 50000;
             int i = 0;
-            while(money>5000)
+            while (money > 5000)
             {
                 money = money - money * 0.05;
                 i++;
@@ -153,8 +161,8 @@
 
             //作业9
             /*int i;
-            double num=1;
-            for (i = 1; i <= 6; i++)
+            double num = 1;
+            for (i = 6; i >= 1; i--)
             {
                 num = (num + 1) * 2;
             }
@@ -167,10 +175,10 @@
             double res = 10;
             for (int i = 1; i < 11; i++)
             {
-                h = h / 2;
+                h = h * 0.5;
                 res = res + h * 2;
                 if (i == 10) res = res - h;
-                
+
             }
             Console.WriteLine(res);*/
 
