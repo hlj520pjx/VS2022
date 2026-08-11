@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\04week01day\\04week01day\\04week01day.csproj": {}
+    "E:\\VSproject\\project\\04week\\04week01day\\04week01day\\04week01day.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\04week01day\\04week01day\\04week01day.csproj": {
+    "E:\\VSproject\\project\\04week\\04week01day\\04week01day\\04week01day.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\04week01day\\04week01day\\04week01day.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\04week\\04week01day\\04week01day\\04week01day.csproj",
         "projectName": "04week01day",
-        "projectPath": "E:\\VSproject\\04week01day\\04week01day\\04week01day.csproj",
+        "projectPath": "E:\\VSproject\\project\\04week\\04week01day\\04week01day\\04week01day.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\04week01day\\04week01day\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\04week\\04week01day\\04week01day\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

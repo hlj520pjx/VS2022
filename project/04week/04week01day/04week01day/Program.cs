@@ -129,11 +129,11 @@ namespace _04week01day
             Console.WriteLine(Regex.IsMatch("accb", reg)); // False*/
 
             //作业1
-            /* string str = "hello, I am 刘德华,your name is 黎明,黄陆基，数据库?";
-             var res = @"[\u4e00-\u9fa5]{2,}";
-             var m1=Regex.Matches(str,res);
-             foreach (var item in m1)
-                 Console.WriteLine(item);*/
+            /*string str = "hello, I am 刘德华,your name is 黎明,黄陆基，数据库?";
+            var res = @"[\u4e00-\u9fa5]{2,}";
+            var m1 = Regex.Matches(str, res);
+            foreach (var item in m1)
+                Console.WriteLine(item);*/
 
 
             //作业2
@@ -192,7 +192,7 @@ namespace _04week01day
             }
             else
             {
-                // 理论上 typeCount 不会为 0（除非是空字符串，但上面已经校验了长度）
+
                 Console.WriteLine("密码强度：极弱 (请重新输入)");
             }
 
