@@ -1,0 +1,15 @@
+E:\VSproject\project\04week\04week03day\04week03day\bin\Debug\net8.0\04week03day.exe
+E:\VSproject\project\04week\04week03day\04week03day\bin\Debug\net8.0\04week03day.deps.json
+E:\VSproject\project\04week\04week03day\04week03day\bin\Debug\net8.0\04week03day.runtimeconfig.json
+E:\VSproject\project\04week\04week03day\04week03day\bin\Debug\net8.0\04week03day.dll
+E:\VSproject\project\04week\04week03day\04week03day\bin\Debug\net8.0\04week03day.pdb
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.AssemblyInfoInputs.cache
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.AssemblyInfo.cs
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.csproj.CoreCompileInputs.cache
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.sourcelink.json
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.dll
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\refint\04week03day.dll
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.pdb
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\04week03day.genruntimeconfig.cache
+E:\VSproject\project\04week\04week03day\04week03day\obj\Debug\net8.0\ref\04week03day.dll
