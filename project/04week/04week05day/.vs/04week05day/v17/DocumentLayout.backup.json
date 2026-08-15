@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\04week\\04week05day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8E67B6-437E-4F47-9C49-20B7EEC2293A}|04week05day\\04week05day.csproj|e:\\vsproject\\project\\04week\\04week05day\\04week05day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8E67B6-437E-4F47-9C49-20B7EEC2293A}|04week05day\\04week05day.csproj|solutionrelative:04week05day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\04week\\04week05day\\04week05day\\Program.cs",
+              "RelativeDocumentMoniker": "04week05day\\Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\04week\\04week05day\\04week05day\\Program.cs",
+              "RelativeToolTip": "04week05day\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T02:52:57.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

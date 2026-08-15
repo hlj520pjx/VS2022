@@ -92,17 +92,18 @@ namespace _04week04day
 
             // 作业1
             // 找第一个满足条件的元素Find: 要求查找年龄小于20的
-            /*var res = list.Find(item =>
+            var res = list.Find(item =>
             {
                 return item["age"] < 20;
 
             });
-            var options = new JsonSerializerOptions
-            {
-                WriteIndented = true
-            };
-            Console.WriteLine(JsonSerializer.Serialize(res, options));
-            Console.WriteLine($"{res["age"]}");*/
+            //Console.WriteLine($"{res["name"]}--{res["age"]}");
+            //var options = new JsonSerializerOptions
+            //{
+            //    WriteIndented = true
+            //};
+            //Console.WriteLine(JsonSerializer.Serialize(res, options));
+            //Console.WriteLine($"{res["age"]}");
 
 
 
@@ -198,11 +199,12 @@ namespace _04week04day
 
 
             //作业2: 封装一个函数 接收一个字符串; 返回一个字典,键是字符串的每个字符,键值是这个字符在字符串中出现的次数
-            string Str = "dsgfgasfgncvcx";
+            string Str = "dsgfga收到你家啊上班fsfsf461476615624gncvcx";
             var fn = (string str) =>
             {
                 var hlj = new Dictionary<char, int>();
-                foreach (char c in str)
+
+                foreach (dynamic c in str)
                 {
                     if (hlj.ContainsKey(c))
                     {
@@ -222,6 +224,7 @@ namespace _04week04day
             {
                 WriteIndented = true
             };
+
             Console.WriteLine(JsonSerializer.Serialize(fn(Str), options));
 
 
