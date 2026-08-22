@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\05week\\Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|e:\\vsproject\\project\\05week\\car\\car\\carmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|solutionrelative:car\\carmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\Car.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Car\\bin\\Debug\\net8.0\\Car.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|e:\\vsproject\\project\\05week\\car\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|solutionrelative:car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|e:\\vsproject\\project\\05week\\car\\car\\usermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|solutionrelative:car\\usermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|e:\\vsproject\\project\\05week\\car\\car\\projectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B71EB6-F731-482E-9BEF-8756F0461F9A}|Car\\Car.csproj|solutionrelative:car\\projectclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\User.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Car\\bin\\Debug\\net8.0\\User.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.json",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\User.json",
+              "RelativeDocumentMoniker": "Car\\bin\\Debug\\net8.0\\User.json",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\User.json",
+              "RelativeToolTip": "Car\\bin\\Debug\\net8.0\\User.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T05:21:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMethod.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\UserMethod.cs",
+              "RelativeDocumentMoniker": "Car\\UserMethod.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\UserMethod.cs",
+              "RelativeToolTip": "Car\\UserMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T01:48:36.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.json",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\Car.json",
+              "RelativeDocumentMoniker": "Car\\bin\\Debug\\net8.0\\Car.json",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\bin\\Debug\\net8.0\\Car.json",
+              "RelativeToolTip": "Car\\bin\\Debug\\net8.0\\Car.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T12:11:20.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarMethod.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\CarMethod.cs",
+              "RelativeDocumentMoniker": "Car\\CarMethod.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\CarMethod.cs",
+              "RelativeToolTip": "Car\\CarMethod.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:19:13.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projectClass.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\projectClass.cs",
+              "RelativeDocumentMoniker": "Car\\projectClass.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\projectClass.cs",
+              "RelativeToolTip": "Car\\projectClass.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCYAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:53:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\Car\\Car\\Program.cs",
+              "RelativeDocumentMoniker": "Car\\Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\Car\\Car\\Program.cs",
+              "RelativeToolTip": "Car\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:42:51.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

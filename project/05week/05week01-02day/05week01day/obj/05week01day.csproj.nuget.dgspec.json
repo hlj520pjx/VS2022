@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\05week01day.csproj": {}
+    "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\05week01day.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\05week01day.csproj": {
+    "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\05week01day.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\05week01day.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\05week01day.csproj",
         "projectName": "05week01day",
-        "projectPath": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\05week01day.csproj",
+        "projectPath": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\05week01day.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

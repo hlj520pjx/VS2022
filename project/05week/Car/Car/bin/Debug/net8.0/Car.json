@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "CarNum": "粤B666666",
+    "Type": "赛车",
+    "Static": false,
+    "Price": 1000
+  },
+  {
+    "Id": 2,
+    "CarNum": "桂A77777",
+    "Type": "三轮",
+    "Static": true,
+    "Price": 10
+  }
+]

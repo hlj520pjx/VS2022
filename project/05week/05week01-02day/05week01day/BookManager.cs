@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,17 @@ namespace _05week01day
         public string path { get; }  // 数据文件路径
         public JsonSerializerOptions JsonOpts { get; }// JSON序列化配置项
         // 新增数据：强制要求 ==> 将list写入文件中
+
+
+        // 自定义实例构造函数
+        public BookManager(string bookPath, JsonSerializerOptions Opts)
+        {
+            // 实例化初始化属性
+            path = bookPath;
+            JsonOpts = Opts;
+        }
+
+
         public string AddBook(Dictionary<string, dynamic> bookDic)
         {
             // 判断图书是否已存在===>根据图书名判断(一个书名只有一本)
@@ -28,9 +40,9 @@ namespace _05week01day
             }
 
             bookList.Add(bookDic);
-            
+
             string jsonStr = JsonSerializer.Serialize(bookList, JsonOpts);//序列化
-           
+
             File.WriteAllText(path, jsonStr); // 写入文件
 
             return "新增数据成功!!!";
@@ -38,12 +50,20 @@ namespace _05week01day
 
 
         // 编辑数据
-        public string EditBook(string bookName)// 编辑的逻辑处理
+        public string EditBook(Dictionary<string, dynamic> bookdir, string eitdname)// 编辑的逻辑处理
         {
-            
+            if (!File.Exists(path)) return "该文件不存在";
+            string str = File.ReadAllText(this.path);
+            List<Dictionary<string, dynamic>> list = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(str);
+            Dictionary<string, dynamic> findbook = list.Find(item => item["name"].ToString() == eitdname);
+            if (findbook == null) return "该图书不存在";
+            foreach (var item in bookdir)
+            {
+                findbook[item.Key] = bookdir[item.Key];
+            }
+            File.WriteAllText(this.path, JsonSerializer.Serialize(list, this.JsonOpts));
 
-            
-            return "ok";
+            return "编辑成功";
         }
 
 
@@ -52,19 +72,17 @@ namespace _05week01day
 
 
         // 删除数据
-        public List<Dictionary<string, dynamic>> RemoveBook(string bookName)
+        public string RemoveBook(string bookName)
         {
-            List<Dictionary<string,dynamic>> aaa = new ();
-            if (!File.Exists(path))return aaa;
+            if (!File.Exists(path)) return "没找到数据";
             var json = File.ReadAllText(path);
-
-            List<Dictionary<string, dynamic>> bbb = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(json);
-            if (bbb == null) return bbb;
-            List<Dictionary<string, dynamic>> ccc = bbb.Where(item => item["name"].ToString()!= bookName).ToList();
-
-            string jsonStr = JsonSerializer.Serialize(ccc, JsonOpts);//序列化
+            List<Dictionary<string, dynamic>> list = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(json);
+            int abc = list.FindIndex(b => b["name"].ToString() == bookName);
+            if (abc == -1) return "该图书不存在，请重新输入";
+            list.RemoveAt(abc);
+            string jsonStr = JsonSerializer.Serialize(list, JsonOpts);//序列化
             File.WriteAllText(path, jsonStr); // 写入文件
-            return ccc;
+            return "删除成功";
         }
 
 
@@ -78,8 +96,8 @@ namespace _05week01day
             List<Dictionary<string, dynamic>> list1 = new();
             //先判断文件是否存在，不存在返回空list1
             if (!File.Exists(path)) return list1;
-           //文件存在就读取文本内容后反序列化列表内容，再变成返回值
-           var json = File.ReadAllText(path);
+            //文件存在就读取文本内容后反序列化列表内容，再变成返回值
+            var json = File.ReadAllText(path);
             list1 = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(json);
             return list1;
 
@@ -94,30 +112,58 @@ namespace _05week01day
         public Dictionary<string, dynamic> SearchBook(string bookName) // 返回值根据情况修改
         {
             //先建立一个列表存放读取的数据
-           Dictionary<string, dynamic> dic = new();
+            Dictionary<string, dynamic> dic = new();
             //判断路径文件是否存在，不存在就返回空表
-            if(!File.Exists(path)) return dic;
+            if (!File.Exists(path)) return dic;
             //存在的话就读取文件再反序列化
             var json = File.ReadAllText(path);
             List<Dictionary<string, dynamic>> list2 = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(json);
-            Dictionary<string, dynamic> dic1 = list2.Find(item => item["name"].ToString() ==bookName);
+            Dictionary<string, dynamic> dic1 = list2.Find(item => item["name"].ToString() == bookName);
             //与参数进行对比
-            if(dic1 != null) return dic1;
+            if (dic1 != null) return dic1;
             //返回查询图书的数据
             return dic;
         }
 
 
 
-
-
-
-        // 自定义实例构造函数
-        public BookManager(string bookPath, JsonSerializerOptions Opts)
+        public string BorrowBook(string bookname)
         {
-            // 实例化初始化属性
-            path = bookPath;
-            JsonOpts = Opts;
+            try
+            {
+                if (!File.Exists(path)) return "文件不存在";
+                var json = File.ReadAllText(path);
+                List<Dictionary<string, dynamic>> list1 = JsonSerializer.Deserialize<List<Dictionary<string, dynamic>>>(json);
+                List<Dictionary<string, dynamic>> availableBooks = list1.FindAll(item => item["isBorrow"].ToString() == "False");// 找出所有可借阅的书籍
+                if (availableBooks.Count == 0) return "没有可借阅的书籍";   
+                Console.WriteLine("可借阅的书籍：");
+                foreach (var item in availableBooks)
+                {
+                    Console.WriteLine($"书名：{item["name"]}--作者：{item["author"]}--标签：{item["mark"]}--价格：{item["price"]}--状态：{item["isBorrow"]}");
+                }    
+                Dictionary<string, dynamic> bookToBorrow = null; 
+                foreach (var item in availableBooks)// 查找要借阅的书籍
+                {
+                    if (item["name"].ToString() == bookname)
+                    {
+                        bookToBorrow = item;
+                        break;
+                    }
+                }
+
+                if (bookToBorrow == null) return $"未找到可借阅的书籍：{bookname}";
+                bookToBorrow["isBorrow"] = "true";
+
+                string jsonStr = JsonSerializer.Serialize(list1);
+                File.WriteAllText(path, jsonStr);
+
+                return "借阅成功";
+            }
+            catch (Exception ex)
+            {
+                return $"借阅失败：{ex.Message}";
+            }
+
         }
     }
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "EmpId": 1,
+    "EmpName": "黄陆基",
+    "Department": "监管",
+    "Salary": 456465456
+  },
+  {
+    "EmpId": 2,
+    "EmpName": "萨达",
+    "Department": "撒地方",
+    "Salary": 4000
+  },
+  {
+    "EmpId": 3,
+    "EmpName": "撒地方",
+    "Department": "是我的",
+    "Salary": 8000
+  },
+  {
+    "EmpId": 4,
+    "EmpName": "前晚上",
+    "Department": "请问对方",
+    "Salary": 14000
+  }
+]

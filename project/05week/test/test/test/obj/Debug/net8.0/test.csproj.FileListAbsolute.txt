@@ -1,0 +1,15 @@
+E:\VSproject\project\05week\test\test\test\bin\Debug\net8.0\test.exe
+E:\VSproject\project\05week\test\test\test\bin\Debug\net8.0\test.deps.json
+E:\VSproject\project\05week\test\test\test\bin\Debug\net8.0\test.runtimeconfig.json
+E:\VSproject\project\05week\test\test\test\bin\Debug\net8.0\test.dll
+E:\VSproject\project\05week\test\test\test\bin\Debug\net8.0\test.pdb
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.sourcelink.json
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.dll
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\refint\test.dll
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.pdb
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+E:\VSproject\project\05week\test\test\test\obj\Debug\net8.0\ref\test.dll

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VSproject\\project\\05week\\05week01day\\",
+  "WorkspaceRootPath": "E:\\VSproject\\project\\05week\\05week01-02day\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|e:\\vsproject\\project\\05week\\05week01day\\05week01day\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|e:\\vsproject\\project\\05week\\05week01-02day\\05week01day\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|solutionrelative:05week01day\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|e:\\vsproject\\project\\05week\\05week01day\\05week01day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|e:\\vsproject\\project\\05week\\05week01-02day\\05week01day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97E3EEF-492F-47FE-914D-2620C6BE528E}|05week01day\\05week01day.csproj|solutionrelative:05week01day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSproject\\project\\05week\\05week01day\\05week01day\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:05week01day\\bin\\Debug\\net8.0\\book.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "book.json",
-              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\bin\\Debug\\net8.0\\book.json",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\bin\\Debug\\net8.0\\book.json",
               "RelativeDocumentMoniker": "05week01day\\bin\\Debug\\net8.0\\book.json",
-              "ToolTip": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\bin\\Debug\\net8.0\\book.json",
+              "ToolTip": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\bin\\Debug\\net8.0\\book.json",
               "RelativeToolTip": "05week01day\\bin\\Debug\\net8.0\\book.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookManager.cs",
-              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\BookManager.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\BookManager.cs",
               "RelativeDocumentMoniker": "05week01day\\BookManager.cs",
-              "ToolTip": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\BookManager.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\BookManager.cs",
               "RelativeToolTip": "05week01day\\BookManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwEEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAA8wIgAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T12:14:45.477Z",
               "EditorCaption": ""
@@ -58,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\Program.cs",
               "RelativeDocumentMoniker": "05week01day\\Program.cs",
-              "ToolTip": "E:\\VSproject\\project\\05week\\05week01day\\05week01day\\Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\05week\\05week01-02day\\05week01day\\Program.cs",
               "RelativeToolTip": "05week01day\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwIUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-17T01:22:47.089Z",
               "EditorCaption": ""

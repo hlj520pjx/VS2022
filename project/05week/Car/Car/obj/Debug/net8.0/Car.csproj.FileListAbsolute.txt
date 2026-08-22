@@ -1,0 +1,15 @@
+E:\VSproject\project\05week\Car\Car\bin\Debug\net8.0\Car.exe
+E:\VSproject\project\05week\Car\Car\bin\Debug\net8.0\Car.deps.json
+E:\VSproject\project\05week\Car\Car\bin\Debug\net8.0\Car.runtimeconfig.json
+E:\VSproject\project\05week\Car\Car\bin\Debug\net8.0\Car.dll
+E:\VSproject\project\05week\Car\Car\bin\Debug\net8.0\Car.pdb
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.AssemblyInfoInputs.cache
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.AssemblyInfo.cs
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.csproj.CoreCompileInputs.cache
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.sourcelink.json
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.dll
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\refint\Car.dll
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.pdb
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\Car.genruntimeconfig.cache
+E:\VSproject\project\05week\Car\Car\obj\Debug\net8.0\ref\Car.dll
