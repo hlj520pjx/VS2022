@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
@@ -14,7 +15,7 @@ namespace test
 
         static void Main(string[] args)
         {
-            Method MD = new Method();
+            Employee MD = new Employee(1,"","",10.1);
            
 
             string num = "";
@@ -25,27 +26,48 @@ namespace test
                 switch (num)
                 {
                     case "1":
-                        Console.WriteLine("请输入员工名字：");
-                        string name= Console.ReadLine();
-                        Console.WriteLine("请输入员工部门：");
-                        string part = Console.ReadLine();
-                        Console.WriteLine("请输入员工薪资：");
-                        double money = double.Parse(Console.ReadLine());
-                        string res=MD.Add(name, part, money);
-                        Console.WriteLine(res);
+                        Console.WriteLine("请输入员工编号：");
+                        string EmpIdStr = Console.ReadLine();
+                        var regId = @"^[1-9]\d*$"; // 正整数，首位非0
+                        if (!Regex.IsMatch(EmpIdStr, regId))
+                        {
+                            Console.WriteLine("输入的员工ID有误（必须为正整数）");
+                            break;
+                        }
+                        int EmpId = int.Parse(EmpIdStr);
 
+                        Console.WriteLine("请输入员工名字：");
+                        string EmpName = Console.ReadLine();
+
+                        Console.WriteLine("请输入员工部门：");
+                        string Department = Console.ReadLine();
+
+                        Console.WriteLine("请输入员工薪资：");
+                        string SalaryStr = Console.ReadLine();
+                        var regSalary = @"^\d+(\.\d{1,2})?$"; // 正数，最多两位小数
+                        if (!Regex.IsMatch(SalaryStr, regSalary))
+                        {
+                            Console.WriteLine("输入的员工薪资有误（必须为正数，小数最多两位）");
+                            break;
+                        }
+                        double Salary = double.Parse(SalaryStr);
+
+                        string res = MD.Add(EmpId, EmpName, Department, Salary);
+                        Console.WriteLine(res);
                         break;
 
                     case "2":
                         MD.SearchAll();
                         break;
 
+                    
                     case "3":
                         Console.WriteLine("请输入员工Id：");
                         string id = Console.ReadLine();
                         Console.WriteLine("请输入员工薪资：");
-                        double money1 = double.Parse(Console.ReadLine());
-                        MD.adpmoney(id, money1);
+                        string money1 = Console.ReadLine();
+                        double salary = double.Parse(money1);
+                        MD.adpmoney(id, salary);
                         break;
 
                     case "4":

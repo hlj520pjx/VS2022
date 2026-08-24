@@ -13,18 +13,47 @@ namespace test
 
     internal class Employee
     {
-        public int EmpId { get; set; }
-        public string EmpName { get; set; }
-        public string Department { get; set; }
-        public double Salary { get; set; }
+        //将私有字段和公开属性合并在一起
+        //public int EmpId { get; set; }
+        //public string EmpName { get; set; }
+        //public string Department { get; set; }
+        //public double Salary { get; set; }
 
 
-        public Employee(int EmpId, string EmpName, string Department, double Salary)
+        //定义私有字段，通过相应的公开属性来访问
+        private int EmpId;
+        private string EmpName ;
+        private string Department ;
+        private double Salary ;
+
+        public int _EmpId
         {
-            this.EmpId = EmpId;
-            this.EmpName = EmpName;
-            this.Department = Department;
-            this.Salary = Salary;
+            get { return this.EmpId; }
+            set { this.EmpId = value; }
+        }
+        public  string _EmpName
+        {
+            get { return EmpName; }
+            set { this.EmpName = value; }
+        }
+        public string _Department
+        {
+            get { return Department; }
+            set { this.Department = value; }
+        }
+        public double _Salary
+        {
+            get { return Salary; }
+            set { this.Salary = value; }
+        }
+
+
+        public Employee(int _EmpId, string _EmpName, string _Department, double _Salary)
+        {
+            this.EmpId = _EmpId;
+            this.EmpName = _EmpName;
+            this.Department = _Department;
+            this.Salary = _Salary;
 
         }
 
@@ -33,12 +62,12 @@ namespace test
             Console.WriteLine($"员工编号：{EmpId}，姓名：{EmpName}，部门：{Department}，薪资：{Salary:F2}");
         }
 
-    }
+        //public Employee() { }
+
+        
 
 
 
-    internal class Method
-    {
         private string Path { get; } = "./employee.json";
         private JsonSerializerOptions JsonOpt { get; } = new JsonSerializerOptions
         {
@@ -52,44 +81,49 @@ namespace test
 
 
 
-        internal string Add(string name, string dap, double money)
+        public string Add(int EmpId, string EmpName, string Department, double Salary)
         {
             List< Employee> list= new ();
             if (File.Exists(this.Path))
             {
                 string jsonstr = File.ReadAllText(this.Path);
                 list = JsonSerializer.Deserialize<List<Employee>>(jsonstr);
-                if(list.Exists(item => item.EmpName == name))
+                if(list.Exists(item => item.EmpName == EmpName))
                 {
                     return "员工已存在，请重新输入";
                 }
             } 
-            Employee adb=new Employee(list.Count+1, name, dap,money);
+            Employee adb=new Employee(EmpId, EmpName, Department, Salary);
             list.Add(adb); 
             File.WriteAllText(this.Path,JsonSerializer.Serialize(list, this.JsonOpt));
             return "新增员工成功";
         }
 
 
-        internal void SearchAll()
+        public void SearchAll()
         {
             List<Employee> list = new();
             if (!File.Exists(this.Path))
             {
-                Console.WriteLine("没有员工信息，请添加"); 
+                Console.WriteLine("没有员工信息，请添加");
+                return;
             }
             string jsonstr = File.ReadAllText(this.Path);
             list = JsonSerializer.Deserialize<List<Employee>>(jsonstr);
-            foreach(var item in list)
+            if(list.Count==0)
             {
-                Console.WriteLine($"Id:{item.EmpId}   名字：{item.EmpName}   部门：{item.Department}   薪资：{item.Salary}");
-                
+                Console.WriteLine("暂无员工数据");
+                return;
+            }
+            foreach(Employee item in list)
+            {
+                item.ShowEmpInfo();
             }
             Console.WriteLine("查看员工成功"); 
         }
 
 
-        internal void adpmoney(string id,double money)
+        public void adpmoney(string id, double money)
         {
             List<Employee> list = new();
             if (!File.Exists(this.Path))
@@ -106,7 +140,7 @@ namespace test
         }
 
 
-        internal void del(string id)
+        public void del(string id)
         {
             List<Employee> list = new();
             if (!File.Exists(this.Path))
@@ -125,7 +159,7 @@ namespace test
 
 
 
-        internal void getmoney(double hope)
+        public void getmoney(double hope)
         {
             List<Employee> list = new();
             if (!File.Exists(this.Path))
@@ -146,38 +180,7 @@ namespace test
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
 
 
 }
