@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\06week\\03day\\03day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|E:\\VSproject\\project\\06week\\03day\\03day\\keymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:keymove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\lunbotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:lunbotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\keymove.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:keymove.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|E:\\VSproject\\project\\06week\\03day\\03day\\form89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form89.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form89.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form89.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|E:\\VSproject\\project\\06week\\03day\\03day\\form67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form67.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form67.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form67.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|E:\\VSproject\\project\\06week\\03day\\03day\\form45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form45.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form45.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|E:\\VSproject\\project\\06week\\03day\\03day\\form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|e:\\vsproject\\project\\06week\\03day\\03day\\form23.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7D882F-0268-462D-A412-F9A921DF4615}|03day.csproj|solutionrelative:form23.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lunbotu.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\lunbotu.cs",
+              "RelativeDocumentMoniker": "lunbotu.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\lunbotu.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "lunbotu.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:38:24.076Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "keymove.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\keymove.Designer.cs",
+              "RelativeDocumentMoniker": "keymove.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\keymove.Designer.cs",
+              "RelativeToolTip": "keymove.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:44:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "keymove.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\keymove.cs",
+              "RelativeDocumentMoniker": "keymove.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\keymove.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "keymove.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T11:21:27.585Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form89.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.cs",
+              "RelativeDocumentMoniker": "Form89.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.cs",
+              "RelativeToolTip": "Form89.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:25:08.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:07:23.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form89.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.Designer.cs",
+              "RelativeDocumentMoniker": "Form89.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.Designer.cs",
+              "RelativeToolTip": "Form89.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:25:47.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form89.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.cs",
+              "RelativeDocumentMoniker": "Form89.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form89.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form89.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:23:25.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form67.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.Designer.cs",
+              "RelativeDocumentMoniker": "Form67.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.Designer.cs",
+              "RelativeToolTip": "Form67.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwE0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:54:33.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form67.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.cs",
+              "RelativeDocumentMoniker": "Form67.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.cs",
+              "RelativeToolTip": "Form67.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T02:17:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form67.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.cs",
+              "RelativeDocumentMoniker": "Form67.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form67.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form67.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T01:49:57.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form45.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.Designer.cs",
+              "RelativeDocumentMoniker": "Form45.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.Designer.cs",
+              "RelativeToolTip": "Form45.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:17:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form45.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.cs",
+              "RelativeDocumentMoniker": "Form45.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.cs",
+              "RelativeToolTip": "Form45.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA0wFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:56:39.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form45.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.cs",
+              "RelativeDocumentMoniker": "Form45.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form45.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form45.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:51:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form23.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.cs",
+              "RelativeDocumentMoniker": "Form23.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form23.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:35:41.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form23.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.Designer.cs",
+              "RelativeDocumentMoniker": "Form23.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.Designer.cs",
+              "RelativeToolTip": "Form23.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:31:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form23.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.cs",
+              "RelativeDocumentMoniker": "Form23.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\03day\\03day\\Form23.cs",
+              "RelativeToolTip": "Form23.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:30:50.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

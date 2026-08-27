@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\06week\\04day\\04day\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|e:\\vsproject\\project\\06week\\04day\\04day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|e:\\vsproject\\project\\06week\\04day\\04day\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|e:\\vsproject\\project\\06week\\04day\\04day\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|e:\\vsproject\\project\\06week\\04day\\04day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6D3E1D7-6A91-480D-BE67-AB75EBE4F5B6}|04day.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\04day\\04day\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\04day\\04day\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:58:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:50:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:48:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\04day\\04day\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:33:04.588Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
