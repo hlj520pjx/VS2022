@@ -15,3 +15,5 @@ E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\refint\04day.dl
 E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\04day.pdb
 E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\04day.genruntimeconfig.cache
 E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\ref\04day.dll
+E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\_04day.Form2.resources
+E:\VSproject\project\06week\04day\04day\obj\Debug\net9.0-windows\_04day.Form3.resources
