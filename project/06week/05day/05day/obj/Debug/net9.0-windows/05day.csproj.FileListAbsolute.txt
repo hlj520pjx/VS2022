@@ -17,3 +17,5 @@ E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\05day.genruntim
 E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\ref\05day.dll
 E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\_05day.Form2.resources
 E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\_05day.backcolor.resources
+E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\_05day.Form4.resources
+E:\VSproject\project\06week\05day\05day\obj\Debug\net9.0-windows\_05day.Form5.resources
