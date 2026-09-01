@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|e:\\vsproject\\project\\06week\\06day\\winformsapp1\\bookfn\\bookadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:bookfn\\bookadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|e:\\vsproject\\project\\06week\\06day\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\controls\\ucbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:controls\\ucbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:bookfn\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:bookfn\\bookedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:bookfn\\bookadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|e:\\vsproject\\project\\06week\\06day\\winformsapp1\\bookfn\\bookedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F1087F-A408-44C5-BEC3-6E9AA5D5DCE2}|WinFormsApp1.csproj|solutionrelative:bookfn\\bookedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bookadd.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookadd.Designer.cs",
+              "RelativeDocumentMoniker": "bookfn\\bookadd.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookadd.Designer.cs",
+              "RelativeToolTip": "bookfn\\bookadd.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T13:11:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bookedit.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookedit.cs",
+              "RelativeDocumentMoniker": "bookfn\\bookedit.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookedit.cs",
+              "RelativeToolTip": "bookfn\\bookedit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:57:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCbook.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Controls\\UCbook.cs",
+              "RelativeDocumentMoniker": "Controls\\UCbook.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Controls\\UCbook.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Controls\\UCbook.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:52:54.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bookshow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookshow.cs",
+              "RelativeDocumentMoniker": "bookfn\\bookshow.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookshow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "bookfn\\bookshow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:51:05.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bookedit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookedit.cs",
+              "RelativeDocumentMoniker": "bookfn\\bookedit.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookedit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "bookfn\\bookedit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:51:04.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookadd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookadd.cs",
+              "RelativeDocumentMoniker": "bookfn\\bookadd.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\bookfn\\bookadd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "bookfn\\bookadd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:51:03.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:50:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\06day\\WinFormsApp1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T02:37:41.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

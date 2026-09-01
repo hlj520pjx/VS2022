@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\VSproject\\project\\06week\\05day\\05day\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|e:\\vsproject\\project\\06week\\05day\\05day\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|e:\\vsproject\\project\\06week\\05day\\05day\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form5.Designer.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\06week\\05day\\05day\\Form5.Designer.cs",
               "RelativeDocumentMoniker": "Form5.Designer.cs",
@@ -44,6 +48,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\06week\\05day\\05day\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "E:\\VSproject\\project\\06week\\05day\\05day\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T11:36:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form5.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\06week\\05day\\05day\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\06week\\05day\\05day\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

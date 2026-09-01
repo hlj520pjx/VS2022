@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|e:\\vsproject\\project\\06week\\05day\\05day\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|E:\\VSproject\\project\\06week\\05day\\05day\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0ED1BA7A-2A9A-4C3D-9BA6-301F887F8153}|05day.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Form5.Designer.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T11:03:22.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T11:03:22.208Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "ToolTip": "E:\\VSproject\\project\\06week\\05day\\05day\\Form5.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Form5.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T07:36:31.677Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-08-30T07:36:31.677Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T07:08:28.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T07:08:28.512Z"
             }
           ]
         }
