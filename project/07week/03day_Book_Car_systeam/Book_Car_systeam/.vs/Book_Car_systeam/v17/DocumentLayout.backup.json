@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\bookadd_edit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookAdd_Edit.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.Designer.cs",
+              "RelativeDocumentMoniker": "Book\\BookAdd_Edit.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.Designer.cs",
+              "RelativeToolTip": "Book\\BookAdd_Edit.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T01:09:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookAdd_Edit.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
+              "RelativeDocumentMoniker": "Book\\BookAdd_Edit.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
+              "RelativeToolTip": "Book\\BookAdd_Edit.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T13:13:18.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mysql.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\mysql.cs",
+              "RelativeDocumentMoniker": "mysql.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\mysql.cs",
+              "RelativeToolTip": "mysql.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAywB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:32:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookShow.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookShow.cs",
+              "RelativeDocumentMoniker": "Book\\BookShow.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookShow.cs",
+              "RelativeToolTip": "Book\\BookShow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:05:10.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookShow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookShow.cs",
+              "RelativeDocumentMoniker": "Book\\BookShow.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookShow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Book\\BookShow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T11:03:53.725Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookAdd_Edit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
+              "RelativeDocumentMoniker": "Book\\BookAdd_Edit.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Book\\BookAdd_Edit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T02:38:34.569Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:59:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T10:59:18.745Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

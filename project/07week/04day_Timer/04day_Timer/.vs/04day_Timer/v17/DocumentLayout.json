@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictrueBox_Timer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs",
+              "RelativeDocumentMoniker": "PictrueBox_Timer.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs",
+              "RelativeToolTip": "PictrueBox_Timer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:58:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T10:52:25.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PictrueBox_Timer.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs",
+              "RelativeDocumentMoniker": "PictrueBox_Timer.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PictrueBox_Timer.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T09:10:00.078Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:53:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T08:49:50.428Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
