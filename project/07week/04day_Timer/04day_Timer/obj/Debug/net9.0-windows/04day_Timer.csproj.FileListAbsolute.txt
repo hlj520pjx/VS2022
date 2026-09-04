@@ -17,3 +17,4 @@ E:\VSproject\project\07week\04day_Timer\04day_Timer\obj\Debug\net9.0-windows\04d
 E:\VSproject\project\07week\04day_Timer\04day_Timer\obj\Debug\net9.0-windows\ref\04day_Timer.dll
 E:\VSproject\project\07week\04day_Timer\04day_Timer\obj\Debug\net9.0-windows\_04day_Timer.PictrueBox_Timer.resources
 E:\VSproject\project\07week\04day_Timer\04day_Timer\obj\Debug\net9.0-windows\_04day_Timer.Properties.Resources.resources
+E:\VSproject\project\07week\04day_Timer\04day_Timer\obj\Debug\net9.0-windows\_04day_Timer.Holiday10_1.resources

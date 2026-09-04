@@ -12,8 +12,9 @@ namespace _04day_Timer
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             //Application.Run(new Form1());
-            Application.Run(new PictrueBox_Timer());
-            
+            //Application.Run(new PictrueBox_Timer());
+            Application.Run(new Holiday10_1());
+
         }
     }
 }

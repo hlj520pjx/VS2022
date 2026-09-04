@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04day_Timer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7524310f538c87b2ea2b26df88f0837c43ca123d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a67b92ac1cf255e6678cdec5b4c51ed88681d7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("04day_Timer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04day_Timer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

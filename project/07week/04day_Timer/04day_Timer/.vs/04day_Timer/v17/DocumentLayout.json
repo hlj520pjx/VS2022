@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\holiday10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:holiday10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\holiday10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:holiday10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\holiday10_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:holiday10_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|solutionrelative:pictruebox_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD2EEFA9-B0DE-4A95-8574-5E5639CDC4EB}|04day_Timer.csproj|e:\\vsproject\\project\\07week\\04day_timer\\04day_timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +42,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Holiday10_1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.cs",
+              "RelativeDocumentMoniker": "Holiday10_1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Holiday10_1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T12:12:47.705Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Holiday10_1.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.Designer.cs",
+              "RelativeDocumentMoniker": "Holiday10_1.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.Designer.cs",
+              "RelativeToolTip": "Holiday10_1.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAnwI8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T12:12:23.658Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -39,6 +76,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Holiday10_1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.cs",
+              "RelativeDocumentMoniker": "Holiday10_1.cs",
+              "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Holiday10_1.cs",
+              "RelativeToolTip": "Holiday10_1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T11:48:09.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PictrueBox_Timer.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs",
               "RelativeDocumentMoniker": "PictrueBox_Timer.cs",
@@ -51,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T10:52:25.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PictrueBox_Timer.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\PictrueBox_Timer.cs",
               "RelativeDocumentMoniker": "PictrueBox_Timer.cs",
@@ -76,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -89,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\04day_Timer\\04day_Timer\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

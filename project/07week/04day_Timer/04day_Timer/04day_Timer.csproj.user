@@ -4,6 +4,9 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Holiday10_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="PictrueBox_Timer.cs">
       <SubType>Form</SubType>
     </Compile>
