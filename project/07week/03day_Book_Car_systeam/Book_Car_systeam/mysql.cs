@@ -7,35 +7,33 @@ using System.Threading.Tasks;
 
 namespace Book_Car_systeam
 {
-    internal class mysql
+    internal class Mysql
     {
         public string Server { get; set; } = "127.0.0.1";
         public string Port { get; set; } = "3306";
-        public string Database { get; set; } 
+        public string Database { get; set; }
         public string Uid { get; set; } = "root";
         public string Password { get; set; } = "root";
         public string Charset { get; set; } = "utf8";
-        private string Constr { get; set; }
 
-        public mysql(string database)
+        private string ConnStr { get; set; }
+
+        public Mysql(string database)
         {
             this.Database = database;
         }
 
-        public async void ConHander(string sql,Action<MySqlCommand> Mysqlfun)//参数2是一个无返回值、参数类型为MySqlCommand的方法
+        public async Task<bool> ConHandler(string sql,Func<MySqlCommand,bool>Handler)
         {
-            Constr = $"server={Server};port={Port};database={Database};uid={Uid};password={Password};charset={Charset}";
-            using (MySqlConnection myCon= new MySqlConnection(Constr))
+            ConnStr = $"server={Server};port={Port};database={Database};uid={Uid};password={Password};charset={Charset}";
+            using (MySqlConnection Connection=new MySqlConnection(ConnStr))
             {
-               await myCon.OpenAsync();
-                using (MySqlCommand myCoMM = new MySqlCommand(sql, myCon))
+                await Connection.OpenAsync();
+                using (MySqlCommand Cmd=new MySqlCommand(sql, Connection))
                 {
-                   Mysqlfun(myCoMM);
+                    return Handler(Cmd);
                 }
             }
         }
-        
-
-
     }
 }

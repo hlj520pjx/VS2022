@@ -8,8 +8,6 @@ E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\bin\Debug\ne
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\bin\Debug\net9.0-windows\MySqlConnector.dll
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.csproj.AssemblyReference.cache
-E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.BookAdd_Edit.resources
-E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.BookShow.resources
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Form1.resources
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.csproj.GenerateResource.cache
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.GeneratedMSBuildEditorConfig.editorconfig
@@ -23,3 +21,7 @@ E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\ne
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.pdb
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.genruntimeconfig.cache
 E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\ref\Book_Car_systeam.dll
+E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.main.resources
+E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.Login.resources
+E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.register.resources
+E:\VSproject\project\07week\03day_Book_Car_systeam\Book_Car_systeam\obj\Debug\net9.0-windows\Book_Car_systeam.Book.BookAdd_Edit.resources

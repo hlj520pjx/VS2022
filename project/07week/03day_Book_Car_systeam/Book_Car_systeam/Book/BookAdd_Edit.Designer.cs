@@ -29,138 +29,137 @@
         private void InitializeComponent()
         {
             label1 = new AntdUI.Label();
-            label2 = new AntdUI.Label();
-            input1 = new AntdUI.Input();
-            label3 = new AntdUI.Label();
+            label5 = new Label();
+            label4 = new Label();
+            label3 = new Label();
+            label2 = new Label();
+            input3 = new AntdUI.Input();
             input2 = new AntdUI.Input();
-            label4 = new AntdUI.Label();
-            label5 = new AntdUI.Label();
-            input4 = new AntdUI.Input();
-            button1 = new AntdUI.Button();
+            input1 = new AntdUI.Input();
             inputNumber1 = new AntdUI.InputNumber();
+            button1 = new AntdUI.Button();
             SuspendLayout();
             // 
             // label1
             // 
             label1.Dock = DockStyle.Top;
-            label1.Font = new Font("Microsoft YaHei UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 134);
+            label1.Font = new Font("Microsoft YaHei UI", 24F, FontStyle.Bold, GraphicsUnit.Point, 134);
             label1.Location = new Point(0, 0);
             label1.Name = "label1";
-            label1.Size = new Size(982, 98);
-            label1.TabIndex = 0;
+            label1.Size = new Size(800, 102);
+            label1.TabIndex = 1;
             label1.Text = "";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // label2
+            // label5
             // 
-            label2.Font = new Font("Microsoft YaHei UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            label2.Location = new Point(291, 127);
-            label2.Name = "label2";
-            label2.Size = new Size(94, 29);
-            label2.TabIndex = 1;
-            label2.Text = "图书书名";
-            label2.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // input1
-            // 
-            input1.Location = new Point(402, 102);
-            input1.Name = "input1";
-            input1.PlaceholderText = "请输入书名";
-            input1.Size = new Size(271, 76);
-            input1.TabIndex = 2;
-            // 
-            // label3
-            // 
-            label3.Font = new Font("Microsoft YaHei UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            label3.Location = new Point(291, 230);
-            label3.Name = "label3";
-            label3.Size = new Size(94, 29);
-            label3.TabIndex = 1;
-            label3.Text = "图书作者";
-            label3.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // input2
-            // 
-            input2.Location = new Point(402, 205);
-            input2.Name = "input2";
-            input2.PlaceholderText = "请输入作者";
-            input2.Size = new Size(271, 76);
-            input2.TabIndex = 2;
+            label5.AutoSize = true;
+            label5.Location = new Point(204, 391);
+            label5.Name = "label5";
+            label5.Size = new Size(39, 20);
+            label5.TabIndex = 13;
+            label5.Text = "标签";
             // 
             // label4
             // 
-            label4.Font = new Font("Microsoft YaHei UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            label4.Location = new Point(291, 328);
+            label4.AutoSize = true;
+            label4.Location = new Point(204, 321);
             label4.Name = "label4";
-            label4.Size = new Size(94, 29);
-            label4.TabIndex = 1;
-            label4.Text = "图书价格";
-            label4.TextAlign = ContentAlignment.MiddleCenter;
+            label4.Size = new Size(39, 20);
+            label4.TabIndex = 14;
+            label4.Text = "价格";
             // 
-            // label5
+            // label3
             // 
-            label5.Font = new Font("Microsoft YaHei UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            label5.Location = new Point(291, 425);
-            label5.Name = "label5";
-            label5.Size = new Size(94, 29);
-            label5.TabIndex = 1;
-            label5.Text = "图书标签";
-            label5.TextAlign = ContentAlignment.MiddleCenter;
+            label3.AutoSize = true;
+            label3.Location = new Point(204, 250);
+            label3.Name = "label3";
+            label3.Size = new Size(39, 20);
+            label3.TabIndex = 15;
+            label3.Text = "作者";
             // 
-            // input4
+            // label2
             // 
-            input4.Location = new Point(402, 400);
-            input4.Multiline = true;
-            input4.Name = "input4";
-            input4.PlaceholderText = "请输入标签";
-            input4.Size = new Size(271, 97);
-            input4.TabIndex = 2;
+            label2.AutoSize = true;
+            label2.Location = new Point(204, 179);
+            label2.Name = "label2";
+            label2.Size = new Size(69, 20);
+            label2.TabIndex = 16;
+            label2.Text = "图书书名";
             // 
-            // button1
+            // input3
             // 
-            button1.Location = new Point(402, 503);
-            button1.Name = "button1";
-            button1.Size = new Size(180, 66);
-            button1.TabIndex = 3;
+            input3.Location = new Point(283, 377);
+            input3.Multiline = true;
+            input3.Name = "input3";
+            input3.PlaceholderText = "请输入标签";
+            input3.Size = new Size(315, 108);
+            input3.TabIndex = 10;
+            // 
+            // input2
+            // 
+            input2.Location = new Point(283, 234);
+            input2.Name = "input2";
+            input2.PlaceholderText = "请输入作者";
+            input2.Size = new Size(315, 49);
+            input2.TabIndex = 11;
+            // 
+            // input1
+            // 
+            input1.Location = new Point(283, 164);
+            input1.Name = "input1";
+            input1.PlaceholderText = "请输入书名";
+            input1.Size = new Size(315, 49);
+            input1.TabIndex = 12;
             // 
             // inputNumber1
             // 
-            inputNumber1.Location = new Point(402, 309);
+            inputNumber1.Location = new Point(283, 308);
             inputNumber1.Name = "inputNumber1";
-            inputNumber1.Size = new Size(271, 76);
-            inputNumber1.TabIndex = 4;
+            inputNumber1.Size = new Size(315, 49);
+            inputNumber1.TabIndex = 17;
+            inputNumber1.Text = "0";
+            // 
+            // button1
+            // 
+            button1.Location = new Point(315, 534);
+            button1.Name = "button1";
+            button1.Size = new Size(206, 76);
+            button1.TabIndex = 18;
+            button1.Click += button1_Click;
             // 
             // BookAdd_Edit
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(982, 603);
-            Controls.Add(inputNumber1);
+            ClientSize = new Size(800, 678);
             Controls.Add(button1);
-            Controls.Add(input4);
+            Controls.Add(inputNumber1);
             Controls.Add(label5);
             Controls.Add(label4);
-            Controls.Add(input2);
             Controls.Add(label3);
-            Controls.Add(input1);
             Controls.Add(label2);
+            Controls.Add(input3);
+            Controls.Add(input2);
+            Controls.Add(input1);
             Controls.Add(label1);
             Name = "BookAdd_Edit";
             Text = "BookAdd_Edit";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private AntdUI.Label label1;
-        private AntdUI.Label label2;
-        private AntdUI.Input input1;
-        private AntdUI.Label label3;
+        private Label label5;
+        private Label label4;
+        private Label label3;
+        private Label label2;
+        private AntdUI.Input input3;
         private AntdUI.Input input2;
-        private AntdUI.Label label4;
-        private AntdUI.Label label5;
-        private AntdUI.Input input4;
-        private AntdUI.Button button1;
+        private AntdUI.Input input1;
         private AntdUI.InputNumber inputNumber1;
+        private AntdUI.Button button1;
     }
 }
