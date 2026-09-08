@@ -79,6 +79,7 @@
             // 
             input2.Location = new Point(394, 178);
             input2.Name = "input2";
+            input2.PasswordChar = '*';
             input2.PlaceholderText = "请输入密码";
             input2.Size = new Size(315, 49);
             input2.TabIndex = 7;
@@ -96,6 +97,7 @@
             // 
             input3.Location = new Point(394, 249);
             input3.Name = "input3";
+            input3.PasswordChar = '*';
             input3.PlaceholderText = "确认密码";
             input3.Size = new Size(315, 49);
             input3.TabIndex = 7;
@@ -190,11 +192,13 @@
             inputNumber1.Name = "inputNumber1";
             inputNumber1.Size = new Size(315, 49);
             inputNumber1.TabIndex = 14;
+            inputNumber1.Text = "0";
             // 
             // register
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Control;
             ClientSize = new Size(982, 653);
             Controls.Add(inputNumber1);
             Controls.Add(button1);

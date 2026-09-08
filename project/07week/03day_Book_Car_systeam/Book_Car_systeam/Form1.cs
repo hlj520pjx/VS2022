@@ -55,6 +55,7 @@ namespace Book_Car_systeam
                 
                 登录ToolStripMenuItem.Visible= false;
                 退出ToolStripMenuItem.Visible=true;
+                
             }
         }
 

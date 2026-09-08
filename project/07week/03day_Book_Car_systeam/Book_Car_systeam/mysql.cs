@@ -31,7 +31,8 @@ namespace Book_Car_systeam
                 await Connection.OpenAsync();
                 using (MySqlCommand Cmd=new MySqlCommand(sql, Connection))
                 {
-                    return Handler(Cmd);
+                    return Handler(Cmd);//Task线程的返回值是一个bool值，而Handler(Cmd)是一个bool值
+                    //把数据库操作对象Cmd传入方法中才能对数据库进行操作
                 }
             }
         }

@@ -36,7 +36,6 @@
             登录ToolStripMenuItem = new ToolStripMenuItem();
             注册ToolStripMenuItem = new ToolStripMenuItem();
             退出ToolStripMenuItem = new ToolStripMenuItem();
-            label2 = new Label();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -108,21 +107,12 @@
             退出ToolStripMenuItem.Text = "退出";
             退出ToolStripMenuItem.Click += 退出ToolStripMenuItem_Click;
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(58, 70);
-            label2.Name = "label2";
-            label2.Size = new Size(209, 20);
-            label2.TabIndex = 3;
-            label2.Text = "差main的编辑数据和表头处理";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(982, 653);
-            Controls.Add(label2);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label1);
@@ -146,6 +136,5 @@
         private ToolStripMenuItem 登录ToolStripMenuItem;
         private ToolStripMenuItem 注册ToolStripMenuItem;
         private ToolStripMenuItem 退出ToolStripMenuItem;
-        private Label label2;
     }
 }

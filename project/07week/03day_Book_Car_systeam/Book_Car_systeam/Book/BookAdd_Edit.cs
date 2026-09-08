@@ -22,7 +22,7 @@ namespace Book_Car_systeam.Book
             InitializeComponent();
         }
 
-        //重写构造函数（新增）
+        //重载构造函数（新增）
         public BookAdd_Edit(string title)
         {
             InitializeComponent();
@@ -30,7 +30,8 @@ namespace Book_Car_systeam.Book
             button1.Text = title;
             label1.Text = "图书" + title;
         }
-        //重写构造函数（编辑）
+
+        //重载构造函数（编辑）
         public BookAdd_Edit(string title, string id)
         {
             InitializeComponent();
@@ -45,7 +46,7 @@ namespace Book_Car_systeam.Book
         //编辑回显
         private async void datashow()
         {
-            string sql = "select * from where id=@id";
+            string sql = "select * from book where id=@id";
             await mysql.ConHandler(sql, Cmd => 
             {
                 Cmd.Parameters.AddWithValue("@id", Id);
