@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:myself_wordgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:myself_wordgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:myself_wordgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|e:\\vsproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{522F9997-DB57-4D80-95A4-B1BCBD768903}|digui_wordgame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:31:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myself_wordgame.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs",
+              "RelativeDocumentMoniker": "myself_wordgame.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs",
+              "RelativeToolTip": "myself_wordgame.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:29:10.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myself_wordgame.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.Designer.cs",
+              "RelativeDocumentMoniker": "myself_wordgame.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.Designer.cs",
+              "RelativeToolTip": "myself_wordgame.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:28:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:12:02.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myself_wordgame.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs",
+              "RelativeDocumentMoniker": "myself_wordgame.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\myself_wordgame.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "myself_wordgame.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:57:50.876Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\02day_digui_wordgame\\digui_wordgame\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:33:57.445Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
