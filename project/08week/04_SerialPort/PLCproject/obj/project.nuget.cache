@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/6slIEXpHY=",
+  "success": true,
+  "projectFilePath": "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\27660\\.nuget\\packages\\antdui\\2.4.8\\antdui.2.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}

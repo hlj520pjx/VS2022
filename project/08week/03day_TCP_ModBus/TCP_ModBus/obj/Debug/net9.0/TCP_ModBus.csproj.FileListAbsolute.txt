@@ -1,0 +1,15 @@
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\bin\Debug\net9.0\TCP_ModBus.exe
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\bin\Debug\net9.0\TCP_ModBus.deps.json
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\bin\Debug\net9.0\TCP_ModBus.runtimeconfig.json
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\bin\Debug\net9.0\TCP_ModBus.dll
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\bin\Debug\net9.0\TCP_ModBus.pdb
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.AssemblyInfoInputs.cache
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.AssemblyInfo.cs
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.csproj.CoreCompileInputs.cache
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.sourcelink.json
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.dll
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\refint\TCP_ModBus.dll
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.pdb
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\TCP_ModBus.genruntimeconfig.cache
+E:\VSproject\project\08week\03day_TCP_ModBus\TCP_ModBus\obj\Debug\net9.0\ref\TCP_ModBus.dll
