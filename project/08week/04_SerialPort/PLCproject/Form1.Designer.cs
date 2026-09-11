@@ -30,17 +30,18 @@
         {
             panel1 = new Panel();
             panel8 = new Panel();
-            listBox1 = new ListBox();
+            flowLayoutPanel1 = new FlowLayoutPanel();
             label9 = new Label();
             panel7 = new Panel();
             tableLayoutPanel1 = new TableLayoutPanel();
             label10 = new Label();
-            label11 = new Label();
+            dataGridView1 = new DataGridView();
+            button6 = new Button();
             panel6 = new Panel();
             label8 = new Label();
             panel4 = new Panel();
             panel5 = new Panel();
-            label5 = new Label();
+            textBox1 = new TextBox();
             label6 = new Label();
             button5 = new Button();
             button3 = new Button();
@@ -54,21 +55,21 @@
             button1 = new Button();
             label2 = new Label();
             label1 = new Label();
-            dataGridView1 = new DataGridView();
             panel1.SuspendLayout();
             panel8.SuspendLayout();
             panel7.SuspendLayout();
             tableLayoutPanel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             panel6.SuspendLayout();
             panel4.SuspendLayout();
             panel5.SuspendLayout();
             panel2.SuspendLayout();
             panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel1.AutoSize = true;
             panel1.BorderStyle = BorderStyle.FixedSingle;
             panel1.Controls.Add(panel8);
@@ -77,7 +78,6 @@
             panel1.Controls.Add(panel4);
             panel1.Controls.Add(panel2);
             panel1.Controls.Add(label1);
-            panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(1047, 652);
@@ -86,21 +86,21 @@
             // panel8
             // 
             panel8.BorderStyle = BorderStyle.FixedSingle;
-            panel8.Controls.Add(listBox1);
+            panel8.Controls.Add(flowLayoutPanel1);
             panel8.Controls.Add(label9);
             panel8.Location = new Point(522, 338);
             panel8.Name = "panel8";
             panel8.Size = new Size(481, 275);
             panel8.TabIndex = 4;
             // 
-            // listBox1
+            // flowLayoutPanel1
             // 
-            listBox1.Dock = DockStyle.Fill;
-            listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(0, 47);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(479, 226);
-            listBox1.TabIndex = 4;
+            flowLayoutPanel1.Dock = DockStyle.Fill;
+            flowLayoutPanel1.FlowDirection = FlowDirection.TopDown;
+            flowLayoutPanel1.Location = new Point(0, 47);
+            flowLayoutPanel1.Name = "flowLayoutPanel1";
+            flowLayoutPanel1.Size = new Size(479, 226);
+            flowLayoutPanel1.TabIndex = 4;
             // 
             // label9
             // 
@@ -131,8 +131,8 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 25F));
             tableLayoutPanel1.Controls.Add(label10, 0, 0);
-            tableLayoutPanel1.Controls.Add(label11, 3, 0);
             tableLayoutPanel1.Controls.Add(dataGridView1, 0, 1);
+            tableLayoutPanel1.Controls.Add(button6, 3, 0);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Location = new Point(0, 0);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
@@ -163,15 +163,28 @@
             label10.Text = "数据记录区";
             label10.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // label11
+            // dataGridView1
             // 
-            label11.BackColor = SystemColors.ActiveCaption;
-            label11.Location = new Point(375, 0);
-            label11.Name = "label11";
-            label11.Size = new Size(118, 42);
-            label11.TabIndex = 1;
-            label11.Text = "数据记录区";
-            label11.TextAlign = ContentAlignment.MiddleCenter;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            tableLayoutPanel1.SetColumnSpan(dataGridView1, 4);
+            dataGridView1.Location = new Point(3, 48);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            tableLayoutPanel1.SetRowSpan(dataGridView1, 5);
+            dataGridView1.Size = new Size(490, 222);
+            dataGridView1.TabIndex = 2;
+            // 
+            // button6
+            // 
+            button6.BackColor = Color.Lime;
+            button6.Dock = DockStyle.Fill;
+            button6.Location = new Point(375, 3);
+            button6.Name = "button6";
+            button6.Size = new Size(118, 39);
+            button6.TabIndex = 3;
+            button6.Text = "查看历史数据";
+            button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
             // 
             // panel6
             // 
@@ -196,6 +209,7 @@
             // 
             // panel4
             // 
+            panel4.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel4.BorderStyle = BorderStyle.FixedSingle;
             panel4.Controls.Add(panel5);
             panel4.Controls.Add(button5);
@@ -210,20 +224,19 @@
             // panel5
             // 
             panel5.BorderStyle = BorderStyle.FixedSingle;
-            panel5.Controls.Add(label5);
+            panel5.Controls.Add(textBox1);
             panel5.Controls.Add(label6);
             panel5.Location = new Point(3, 140);
             panel5.Name = "panel5";
             panel5.Size = new Size(263, 36);
             panel5.TabIndex = 3;
             // 
-            // label5
+            // textBox1
             // 
-            label5.Location = new Point(135, 0);
-            label5.Name = "label5";
-            label5.Size = new Size(64, 25);
-            label5.TabIndex = 0;
-            label5.TextAlign = ContentAlignment.MiddleCenter;
+            textBox1.Location = new Point(133, 0);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(125, 27);
+            textBox1.TabIndex = 3;
             // 
             // label6
             // 
@@ -293,6 +306,7 @@
             // 
             // panel3
             // 
+            panel3.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             panel3.BorderStyle = BorderStyle.FixedSingle;
             panel3.Controls.Add(label4);
             panel3.Controls.Add(label3);
@@ -321,6 +335,7 @@
             // 
             // button2
             // 
+            button2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button2.BackColor = Color.FromArgb(0, 192, 0);
             button2.Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 134);
             button2.Location = new Point(152, 74);
@@ -332,6 +347,7 @@
             // 
             // button1
             // 
+            button1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             button1.BackColor = Color.FromArgb(0, 192, 0);
             button1.Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 134);
             button1.Location = new Point(27, 74);
@@ -364,17 +380,6 @@
             label1.Text = "温控设备监控主界面";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // dataGridView1
-            // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            tableLayoutPanel1.SetColumnSpan(dataGridView1, 4);
-            dataGridView1.Location = new Point(3, 48);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 51;
-            tableLayoutPanel1.SetRowSpan(dataGridView1, 5);
-            dataGridView1.Size = new Size(490, 222);
-            dataGridView1.TabIndex = 2;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
@@ -387,12 +392,13 @@
             panel8.ResumeLayout(false);
             panel7.ResumeLayout(false);
             tableLayoutPanel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             panel6.ResumeLayout(false);
             panel4.ResumeLayout(false);
             panel5.ResumeLayout(false);
+            panel5.PerformLayout();
             panel2.ResumeLayout(false);
             panel3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -409,7 +415,6 @@
         private Label label3;
         private Panel panel4;
         private Panel panel5;
-        private Label label5;
         private Label label6;
         private Button button3;
         private Button button4;
@@ -419,12 +424,13 @@
         private Panel panel8;
         private Panel panel7;
         private Label label8;
-        private ListBox listBox1;
         private Label label9;
         private TableLayoutPanel tableLayoutPanel1;
         private Label label10;
-        private Label label11;
         private Button button5;
         private DataGridView dataGridView1;
+        private Button button6;
+        private TextBox textBox1;
+        private FlowLayoutPanel flowLayoutPanel1;
     }
 }

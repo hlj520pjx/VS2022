@@ -1,0 +1,11 @@
+E:\VSproject\project\08week\01day_Paint\01day_Paint\bin\Debug\01day_Paint.exe.config
+E:\VSproject\project\08week\01day_Paint\01day_Paint\bin\Debug\01day_Paint.exe
+E:\VSproject\project\08week\01day_Paint\01day_Paint\bin\Debug\01day_Paint.pdb
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.csproj.AssemblyReference.cache
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\_01day_Paint.Form1.resources
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\_01day_Paint.Properties.Resources.resources
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.csproj.GenerateResource.cache
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.csproj.CoreCompileInputs.cache
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.exe
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.pdb
+E:\VSproject\project\08week\01day_Paint\01day_Paint\obj\Debug\01day_Paint.exe.config

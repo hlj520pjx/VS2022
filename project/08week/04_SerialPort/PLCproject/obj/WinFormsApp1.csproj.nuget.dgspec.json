@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "E:\\VSproject\\project\\08week\\04_SerialPort\\PLCproject\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "E:\\VSproject\\project\\08week\\04_SerialPort\\PLCproject\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\08week\\04_SerialPort\\PLCproject\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "E:\\VSproject\\project\\08week\\04_SerialPort\\PLCproject\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\project\\08week\\04_SerialPort\\WinFormsApp1\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\08week\\04_SerialPort\\PLCproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",
