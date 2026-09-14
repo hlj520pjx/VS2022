@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\08week\\Test\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\carmanerage\\mainshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\mainshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|E:\\VSproject\\project\\08week\\Test\\Test\\carmanerage\\mainshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\mainshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\carmanerage\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\carmanerage\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\carmanerage\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|E:\\VSproject\\project\\08week\\Test\\Test\\carmanerage\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|E:\\VSproject\\project\\08week\\Test\\Test\\carmanerage\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|E:\\VSproject\\project\\08week\\Test\\Test\\carmanerage\\borrow_return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\borrow_return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|e:\\vsproject\\project\\08week\\test\\test\\carmanerage\\car.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78E4C8E-C97B-4F74-A9F1-6CA4ACEF78B6}|Test.csproj|solutionrelative:carmanerage\\car.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:10:11.857Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\User.cs",
+              "RelativeDocumentMoniker": "CarManerage\\User.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\User.cs",
+              "RelativeToolTip": "CarManerage\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:44:17.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mysql.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Mysql.cs",
+              "RelativeDocumentMoniker": "CarManerage\\Mysql.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Mysql.cs",
+              "RelativeToolTip": "CarManerage\\Mysql.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:26:58.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Car.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.Designer.cs",
+              "RelativeDocumentMoniker": "CarManerage\\Car.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.Designer.cs",
+              "RelativeToolTip": "CarManerage\\Car.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAASwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:16:23.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:10:15.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.cs",
+              "RelativeDocumentMoniker": "CarManerage\\Car.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.cs",
+              "RelativeToolTip": "CarManerage\\Car.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:08:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainShow.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\MainShow.cs",
+              "RelativeDocumentMoniker": "CarManerage\\MainShow.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\MainShow.cs",
+              "RelativeToolTip": "CarManerage\\MainShow.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwE8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T08:08:17.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Borrow_Return.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Borrow_Return.cs",
+              "RelativeDocumentMoniker": "CarManerage\\Borrow_Return.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Borrow_Return.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CarManerage\\Borrow_Return.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:51:36.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\User.cs",
+              "RelativeDocumentMoniker": "CarManerage\\User.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\User.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CarManerage\\User.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:51:09.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.cs",
+              "RelativeDocumentMoniker": "CarManerage\\Car.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\Car.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CarManerage\\Car.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:51:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainShow.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\MainShow.cs",
+              "RelativeDocumentMoniker": "CarManerage\\MainShow.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\CarManerage\\MainShow.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "CarManerage\\MainShow.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T07:50:38.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAjwAMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T06:52:32.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\08week\\Test\\Test\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAArwFoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T06:23:44.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

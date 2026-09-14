@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\bookadd_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\book\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:book\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E37F80D-EDF3-4C30-B32C-07EB5431F4E5}|Book_Car_systeam.csproj|e:\\vsproject\\project\\07week\\03day_book_car_systeam\\book_car_systeam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,132 +66,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "register.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\register.cs",
               "RelativeDocumentMoniker": "Book\\register.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\register.cs",
               "RelativeToolTip": "Book\\register.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T13:37:18.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\Login.cs",
               "RelativeDocumentMoniker": "Book\\Login.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\Login.cs",
               "RelativeToolTip": "Book\\Login.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T13:00:39.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T12:59:46.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "BookAdd_Edit.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
               "RelativeDocumentMoniker": "Book\\BookAdd_Edit.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Book\\BookAdd_Edit.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:30:04.079Z"
+              "WhenOpened": "2026-09-07T12:30:04.079Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Login.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\Login.cs",
               "RelativeDocumentMoniker": "Book\\Login.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\Login.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Book\\Login.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:29:24.379Z"
+              "WhenOpened": "2026-09-07T12:29:24.379Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "main.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\main.cs",
               "RelativeDocumentMoniker": "Book\\main.cs",
-              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\main.cs [Design]",
-              "RelativeToolTip": "Book\\main.cs [Design]",
+              "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\main.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Book\\main.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T12:26:23.443Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "register.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\register.cs",
               "RelativeDocumentMoniker": "Book\\register.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\register.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Book\\register.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:26:09.627Z"
+              "WhenOpened": "2026-09-07T12:26:09.627Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:25:29.769Z"
+              "WhenOpened": "2026-09-07T12:25:29.769Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Mysql.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Mysql.cs",
               "RelativeDocumentMoniker": "Mysql.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Mysql.cs",
               "RelativeToolTip": "Mysql.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T12:25:01.075Z"
+              "WhenOpened": "2026-09-07T12:25:01.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BookAdd_Edit.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
               "RelativeDocumentMoniker": "Book\\BookAdd_Edit.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\BookAdd_Edit.cs",
               "RelativeToolTip": "Book\\BookAdd_Edit.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAIA5wB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T11:25:54.215Z"
+              "WhenOpened": "2026-09-07T11:25:54.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cs",
               "DocumentMoniker": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\main.cs",
               "RelativeDocumentMoniker": "Book\\main.cs",
               "ToolTip": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book\\main.cs",
               "RelativeToolTip": "Book\\main.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAALgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAYwMEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T11:13:58.084Z",
               "EditorCaption": ""
