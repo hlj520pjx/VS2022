@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\VSproject\\project\\09week_VisonPro\\01day\\touzi_num\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|E:\\VSproject\\project\\09week_VisonPro\\01day\\touzi_num\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|e:\\vsproject\\project\\09week_visonpro\\01day\\touzi_num\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|e:\\vsproject\\project\\09week_visonpro\\01day\\touzi_num\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|E:\\VSproject\\project\\09week_VisonPro\\01day\\touzi_num\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C52B4882-0750-4881-BCF9-5B8CC834150E}|touzi_num.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -47,8 +47,7 @@
               "ToolTip": "E:\\VSproject\\project\\09week_VisonPro\\01day\\touzi_num\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T12:31:35.223Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2026-09-14T12:31:35.223Z"
             }
           ]
         }
