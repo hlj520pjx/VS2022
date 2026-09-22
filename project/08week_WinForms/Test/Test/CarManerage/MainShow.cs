@@ -18,9 +18,17 @@ namespace Test.CarManerage
         {
             InitializeComponent();
             carshow();
+            table1.CellButtonClick += Table1_CellButtonClick;
             
         }
 
+        private void Table1_CellButtonClick(object sender, AntdUI.TableButtonEventArgs e)
+        {
+            System.Data.DataRow Bookrow = e.Record as System.Data.DataRow;
+
+            Borrow_Return borrow_Return = new Borrow_Return(Bookrow["id"].ToString());
+            borrow_Return.Show();
+        }
 
         private async void carshow()
         {
@@ -30,6 +38,7 @@ namespace Test.CarManerage
                 MySqlDataAdapter Adapter = new MySqlDataAdapter(Cmd);
                 DataTable dt = new DataTable();
                 Adapter.Fill(dt);
+                carShowColumn();
                 table1.DataSource = dt;
                 return true;
             });
@@ -54,35 +63,16 @@ namespace Test.CarManerage
 
         private async void button3_Click(object sender, EventArgs e)
         {
+            UserList userList = new UserList();
+            userList.Show();
 
 
-            string sql = "select * from car";
-            await mysql.ConHandler(sql, Cmd =>
-            {
-                MySqlDataAdapter Adapter = new MySqlDataAdapter(Cmd);
-                DataTable dt = new DataTable();
-                Adapter.Fill(dt);
-                table1.DataSource = dt;
-                return true;
 
-
-            });
         }
 
         private async void button4_Click(object sender, EventArgs e)
         {
-            string sql = "select * from user_info";
-            await mysql.ConHandler(sql, Cmd =>
-            {
-                MySqlDataAdapter Adapter = new MySqlDataAdapter(Cmd);
-                DataTable dt = new DataTable();
-                Adapter.Fill(dt);
-                //carShowColumn();
-                table1.DataSource = dt;
-                return true;
-
-
-            });
+            
         }
 
         private async void carShowColumn()
@@ -95,7 +85,7 @@ namespace Test.CarManerage
                 new AntdUI.Column("id","编号"){Render=(object val,object cel,int rowIndex)=> rowIndex+1},
                 new AntdUI.Column("card","车牌号"),
                 new AntdUI.Column("type","车辆类型"),
-                new AntdUI.Column("status","车辆状态"){Render=(object val,object cel,int Index)=> val.ToString()=="1"?"已出租":"未出租"},
+                new AntdUI.Column("status","车辆状态"){Render=(object val,object cel,int Index)=> val.ToString()=="1"?"未出租":"已出租"},
                 new AntdUI.Column("price","车辆小时收费"),
                 
             };
@@ -107,12 +97,15 @@ namespace Test.CarManerage
                 var btnarr = new AntdUI.CellLink[]
                 {
                     new AntdUI.CellButton("zuche","租车",AntdUI.TTypeMini.Default),
+                    new AntdUI.CellButton("huanche","还车",AntdUI.TTypeMini.Default),
                 };
                 return btnarr;
             };
             table1.Columns.Add(HandlerCol);
- 
-            
+
+           
+
+
         }
     }
 }

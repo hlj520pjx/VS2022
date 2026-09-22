@@ -13,6 +13,9 @@
     <Compile Update="CarManerage\User.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CarManerage\UserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

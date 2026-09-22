@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\project\\08week\\Test\\Test\\Test.csproj": {}
+    "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\Test.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\project\\08week\\Test\\Test\\Test.csproj": {
+    "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\project\\08week\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "E:\\VSproject\\project\\08week\\Test\\Test\\Test.csproj",
+        "projectPath": "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\project\\08week\\Test\\Test\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

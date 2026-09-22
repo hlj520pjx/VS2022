@@ -41,9 +41,9 @@
             radioButton2 = new RadioButton();
             panel1 = new Panel();
             label7 = new Label();
-            select1 = new AntdUI.Select();
             button1 = new AntdUI.Button();
             inputNumber1 = new AntdUI.InputNumber();
+            select1 = new AntdUI.Select();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -169,14 +169,6 @@
             label7.TabIndex = 11;
             label7.Text = "班级";
             // 
-            // select1
-            // 
-            select1.Location = new Point(394, 468);
-            select1.Name = "select1";
-            select1.PlaceholderText = "请选择班级";
-            select1.Size = new Size(315, 60);
-            select1.TabIndex = 12;
-            // 
             // button1
             // 
             button1.Location = new Point(431, 556);
@@ -194,15 +186,23 @@
             inputNumber1.TabIndex = 14;
             inputNumber1.Text = "0";
             // 
+            // select1
+            // 
+            select1.Location = new Point(394, 469);
+            select1.Name = "select1";
+            select1.Size = new Size(315, 62);
+            select1.TabIndex = 15;
+            select1.Text = "select1";
+            // 
             // register
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
             ClientSize = new Size(982, 653);
+            Controls.Add(select1);
             Controls.Add(inputNumber1);
             Controls.Add(button1);
-            Controls.Add(select1);
             Controls.Add(label7);
             Controls.Add(panel1);
             Controls.Add(label6);
@@ -237,8 +237,8 @@
         private RadioButton radioButton2;
         private Panel panel1;
         private Label label7;
-        private AntdUI.Select select1;
         private AntdUI.Button button1;
         private AntdUI.InputNumber inputNumber1;
+        private AntdUI.Select select1;
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj": {}
+    "E:\\VSproject\\project\\07week_WinForms\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj": {}
   },
   "projects": {
-    "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj": {
+    "E:\\VSproject\\project\\07week_WinForms\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj",
+        "projectUniqueName": "E:\\VSproject\\project\\07week_WinForms\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj",
         "projectName": "Book_Car_systeam",
-        "projectPath": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj",
+        "projectPath": "E:\\VSproject\\project\\07week_WinForms\\03day_Book_Car_systeam\\Book_Car_systeam\\Book_Car_systeam.csproj",
         "packagesPath": "C:\\Users\\27660\\.nuget\\packages\\",
-        "outputPath": "E:\\VSproject\\project\\07week\\03day_Book_Car_systeam\\Book_Car_systeam\\obj\\",
+        "outputPath": "E:\\VSproject\\project\\07week_WinForms\\03day_Book_Car_systeam\\Book_Car_systeam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\27660\\AppData\\Roaming\\NuGet\\NuGet.Config",

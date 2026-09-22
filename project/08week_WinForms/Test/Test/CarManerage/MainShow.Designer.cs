@@ -90,9 +90,9 @@
             // table1
             // 
             table1.Gap = 12;
-            table1.Location = new Point(87, 212);
+            table1.Location = new Point(357, 207);
             table1.Name = "table1";
-            table1.Size = new Size(1109, 518);
+            table1.Size = new Size(690, 378);
             table1.TabIndex = 2;
             table1.Text = "table1";
             // 

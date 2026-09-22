@@ -116,7 +116,7 @@ using (Pen penPoly = new Pen(Color.DarkMagenta, 2))
 ### 7、画实心圆
 
 ```c#
-// 创建画笔，红色，宽度2
+// 创建画刷，红色，宽度2
 using (SolidBrush brushRed = new SolidBrush(Color.Red))
 {
     // x,y：圆外接矩形左上角；半径30 → 宽=60，高=60
@@ -159,6 +159,7 @@ double[] angles = { 270, 30, 150 };
 for (int i = 0; i < 3; i++)
 {
     double rad = angles[i] * Math.PI / 180;
+    //极坐标转直角坐标，标定好圆上的某个点
     int x = cx + (int)(radius * Math.Cos(rad));
     int y = cy + (int)(radius * Math.Sin(rad));
     pts[i] = new Point(x, y);

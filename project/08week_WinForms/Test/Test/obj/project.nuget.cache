@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DmByi3Siujo=",
+  "dgSpecHash": "QAskUUckkEE=",
   "success": true,
-  "projectFilePath": "E:\\VSproject\\project\\08week\\Test\\Test\\Test.csproj",
+  "projectFilePath": "E:\\VSproject\\project\\08week_WinForms\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\27660\\.nuget\\packages\\antdui\\2.4.10\\antdui.2.4.10.nupkg.sha512",
     "C:\\Users\\27660\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

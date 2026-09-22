@@ -34,8 +34,8 @@
             label4 = new AntdUI.Label();
             label3 = new AntdUI.Label();
             label2 = new AntdUI.Label();
-            select1 = new AntdUI.Select();
             button1 = new AntdUI.Button();
+            select1 = new AntdUI.Select();
             SuspendLayout();
             // 
             // label1
@@ -53,6 +53,7 @@
             // 
             input2.Location = new Point(332, 219);
             input2.Name = "input2";
+            input2.ReadOnly = true;
             input2.Size = new Size(246, 65);
             input2.TabIndex = 17;
             // 
@@ -60,6 +61,7 @@
             // 
             input1.Location = new Point(332, 140);
             input1.Name = "input1";
+            input1.ReadOnly = true;
             input1.Size = new Size(246, 65);
             input1.TabIndex = 18;
             // 
@@ -93,28 +95,29 @@
             label2.Text = "车牌号";
             label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // select1
-            // 
-            select1.Location = new Point(332, 290);
-            select1.Name = "select1";
-            select1.Size = new Size(246, 67);
-            select1.TabIndex = 19;
-            // 
             // button1
             // 
-            button1.Location = new Point(332, 443);
+            button1.Location = new Point(332, 419);
             button1.Name = "button1";
             button1.Size = new Size(183, 82);
             button1.TabIndex = 20;
             button1.Text = "点击租车";
+            button1.Click += button1_Click;
+            // 
+            // select1
+            // 
+            select1.Location = new Point(332, 302);
+            select1.Name = "select1";
+            select1.Size = new Size(246, 63);
+            select1.TabIndex = 21;
             // 
             // Borrow_Return
             // 
             AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 678);
-            Controls.Add(button1);
             Controls.Add(select1);
+            Controls.Add(button1);
             Controls.Add(input2);
             Controls.Add(input1);
             Controls.Add(label4);
@@ -134,7 +137,7 @@
         private AntdUI.Label label4;
         private AntdUI.Label label3;
         private AntdUI.Label label2;
-        private AntdUI.Select select1;
         private AntdUI.Button button1;
+        private AntdUI.Select select1;
     }
 }
