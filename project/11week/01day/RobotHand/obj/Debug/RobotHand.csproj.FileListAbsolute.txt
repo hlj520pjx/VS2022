@@ -1,0 +1,17 @@
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\DobotDll.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\msvcp120.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\msvcr120.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\Qt5Core.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\Qt5Network.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\Qt5SerialPort.dll
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\RobotHand.exe.config
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\RobotHand.exe
+E:\VSproject\project\11week\01day\RobotHand\bin\Debug\RobotHand.pdb
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.csproj.AssemblyReference.cache
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.Properties.Resources.resources
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.csproj.GenerateResource.cache
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.csproj.CoreCompileInputs.cache
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.exe
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.pdb
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.exe.config
+E:\VSproject\project\11week\01day\RobotHand\obj\Debug\RobotHand.Form1.resources

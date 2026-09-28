@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|e:\\vsproject\\project\\11week\\01day\\robothand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|e:\\vsproject\\project\\11week\\01day\\robothand\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|e:\\vsproject\\project\\11week\\01day\\robothand\\dobotdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|solutionrelative:dobotdll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|e:\\vsproject\\project\\11week\\01day\\robothand\\dobotdlltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|solutionrelative:dobotdlltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|e:\\vsproject\\project\\11week\\01day\\robothand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183378CD-CDEC-4F3B-BFBF-2FB38C906C7E}|RobotHand.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:27:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DobotDllType.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\DobotDllType.cs",
+              "RelativeDocumentMoniker": "DobotDllType.cs",
+              "ToolTip": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\DobotDllType.cs",
+              "RelativeToolTip": "DobotDllType.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:51:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DobotDll.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\DobotDll.cs",
+              "RelativeDocumentMoniker": "DobotDll.cs",
+              "ToolTip": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\DobotDll.cs",
+              "RelativeToolTip": "DobotDll.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:51:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwI8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:50:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\VSproject\\project\\11week\\01day\\RobotHand\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:16:51.381Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
